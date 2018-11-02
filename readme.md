@@ -1,7 +1,7 @@
 Exchange w/naked calls enabled
 
 Naked calls are interesting because they enable they allow the issuer to sell calls
-without requiring them to lock up their assets.  I think there's a way to do this using TCR's to minimize the penetration of 'shitcoins'.  
+without requiring them to lock up their assets.  I think there's a way to do this using TCR's to avoid shitcoins from saturating the exchange.
 
 basic architecture
 
